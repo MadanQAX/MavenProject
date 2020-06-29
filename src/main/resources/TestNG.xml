@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Maven Suite" verbose="1" preserve-order="true">
+	<test name="Test Maven Testing">
+		<packages>
+			<package name="helloworld_madan.*" />
+		</packages>
+	</test>
+</suite>
